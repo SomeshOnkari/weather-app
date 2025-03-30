@@ -127,7 +127,7 @@ width: 60%;
 }
 .location-not-found{
     margin-top: 20px;
-    display: none;
+    display: none;      
     align-items: center;
     justify-content: center;
     flex-direction: column;
